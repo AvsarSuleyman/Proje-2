@@ -1,0 +1,126 @@
+body {
+	background-image: url(../images/ssss.jpg);
+	background-position: center top;
+	margin: 0px;
+	padding: 0px;
+}
+#menu_kutu {
+	background-image: url(../images/menu111.png);
+	float: left;
+	height: 599px;
+	width: 396px;
+}
+#logo_menuler {
+	float: left;
+}
+#logo {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+#menuler {
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 42px;
+	font-family: "Times New Roman", Times, serif;
+	color: #575757;
+	font-size: 20px;
+}
+#menu1 {
+	float: left;
+	height: 20px;
+	color: #FFF;
+}
+.yazi {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #575757;
+}
+#menu1 {
+	float: left;
+	width: 200px;
+}
+#menu3 {
+	width: 200px;
+	float: left;
+}
+
+#menu2 {
+	float: left;
+}
+#menu_kutu #logo_menuler #menuler ul li {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+#menu_kutu #logo_menuler #menuler ul li a:hover {
+	color: #504AEC;
+}
+
+#menu_kutu #logo_menuler #menuler ul li a {
+	color: #2E24AA;
+	text-decoration: none;
+}
+#tanitim {
+	background-image: url(../images/333334.png);
+	height: 500px;
+	width: 700px;
+	float: left;
+	margin-top: 50px;
+	margin:auto;
+}
+.etiket {
+	font-weight: bold;
+	color: #FFF;
+}
+.yazi_baslık {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #F00;
+	margin:auto;
+}
+#baslık {
+	width: 200px;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+#yazi_alanı {
+	width: 600px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.yazrengi {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #FFF;
+}
+#tanitim #ilet table tr td #gonder {
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+}
+#tanitim #ilet table tr td #textfield {
+	border: 3px solid #999;
+	background-image: url(../textfield.gif);
+}
+#tanitim #ilet table tr td #textfield3 {
+	border: 3px solid #999;
+	background-image: url(../textfield.gif);
+}
+#tanitim #ilet table tr td #textfield2 {
+	border: 3px solid #999;
+	background-image: url(../textfield.gif);
+}
+#tanitim #ilet table tr td #textarea {
+	border: 3px solid #666;
+	background-image: url(../textfield.gif);
+	background-repeat: repeat;
+}
+#tanitim #ilet table tr td #temizle {
+	border: 3px solid #999;
+}
